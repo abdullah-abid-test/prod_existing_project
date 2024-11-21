@@ -1,0 +1,4 @@
+[submodule "HDLearning/privt_module"]
+	path = HDLearning/privt_module
+	url = git@github.com:HDLearning/privt_module.git
+	branch = main
