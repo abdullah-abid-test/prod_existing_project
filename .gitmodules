@@ -1,3 +1,7 @@
+[submodule "HDDevBuild/privt_module_fork"]
+	path = HDDevBuild/privt_module_fork
+	url = git@github.com:HDDevBuild/privt_module_fork.git
+	branch = main
 [submodule "HDLearning/privt_module"]
 	path = HDLearning/privt_module
 	url = git@github.com:HDLearning/privt_module.git
